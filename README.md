@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 =======
-# legendy4141
+# Legendy4141
 
 <img src="images/legendy4141.jpg" align="right" width="200" height="200" />
 

@@ -36,10 +36,12 @@ I work at [Cognitionteam](https://www.cognitionteam.com/) and contribute to open
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
@@ -58,7 +60,9 @@ I work at [Cognitionteam](https://www.cognitionteam.com/) and contribute to open
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 
 **Previously worked with:**
-
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 <a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
 <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>

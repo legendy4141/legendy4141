@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 =======
 # legendy4141
 
-<img src="images/legendy4141.jpg" align="right" />
+<img src="images/legendy4141.jpg" align="right" width="200" height="200" />
 
 I'm Erik Strom and I go by `legendy4141` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
 

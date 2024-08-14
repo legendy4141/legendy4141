@@ -22,18 +22,14 @@ Here are some ideas to get you started:
 
 I'm Erik Strom and I go by `legendy4141` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
 
-I work at [Reterio](https://www.retorio.com/) and contribute to open source software (mostly OpenAI) as part of my work and out of my own interest. I have a [longer README](https://legendy4141.github.io/README/) if you are interested in more about me.
+I work at [Cognitionteam](https://www.cognitionteam.com/) and contribute to open source software (mostly OpenAI) as part of my work and out of my own interest. I have a [longer README](https://legendy4141.github.io/README/) if you are interested in more about me.
 
 ---
 
 **Social Media:**
 
 [![GitHub](icons/github.png)](https://github.com/legendy4141)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/legendy4141)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/legendy4141)
-[![Twitter](icons/twitter.png)](https://twitter.com/erik-strom)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/erik-strom-471099309/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/erik-strom/)
 
 **Currently working with:**
 

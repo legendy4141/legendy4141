@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm Erik Strom and I go by `legendy4141` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
 
-I work at [Cognitionteam](https://www.cognitionteam.com/) and contribute to open source software (mostly OpenAI) as part of my work and out of my own interest. I have a [longer README](https://legendy4141.github.io/README/) if you are interested in more about me.
+I work at [Cognitionteam](https://www.cognitionteam.com/) and contribute to open source software (mostly OpenAI) as part of my work and out of my own interest. I have a [longer README](https://legendy4141.github.io) if you are interested in more about me.
 
 ---
 

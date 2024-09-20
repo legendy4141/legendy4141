@@ -1,36 +1,13 @@
 <<<<<<< HEAD
 ## Hi there 👋
-
-<!--
-**RubyDemon3131/RubyDemon3131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 =======
 # Legendy4141
 
 <img src="images/legendy4141.jpg" align="right" width="200" height="200" />
 
-I'm Erik Strom and I go by `legendy4141` online in most places. I have built, and more importantly, helped others build computer programs over the past two decades.
-
-I work at [Cognitionteam](https://www.cognitionteam.com/) and contribute to open source software (mostly OpenAI) as part of my work and out of my own interest. I have a [longer README](https://legendy4141.github.io) if you are interested in more about me.
+I'm a developer with the online handle legendy4141, having built and helped others build computer programs for over two decades. My expertise spans a wide array of technologies, and I am passionate about collaboration and improving the projects I contribute to.
 
 ---
-
-**Social Media:**
-
-[![GitHub](icons/github.png)](https://github.com/legendy4141)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/erik-strom-471099309/)
-
 **Currently working with:**
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>

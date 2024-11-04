@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 ## Hi there 👋
-=======
-# Legendy4141
+---
 
 I'm a developer with the online handle legendy4141, having built and helped others build computer programs for over two decades. My expertise spans a wide array of technologies, and I am passionate about collaboration and improving the projects I contribute to.
 

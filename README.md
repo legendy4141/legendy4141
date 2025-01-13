@@ -3,25 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Destiny Gray"
-        self.role = "Senior Software Engineer"
-        self.language_spoken = ["zh_SG", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SeniorSoftwareEngineer()
-me.say_hi()
-```
 ## 🔧 Technologies & Tools
 
 **Cloud Services:**
